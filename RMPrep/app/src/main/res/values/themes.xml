@@ -1,0 +1,2 @@
+<resources><style name="Theme.RMPrep" parent="android:Theme.Material.NoActionBar">
+<item name="android:windowBackground">#0D0F0C</item><item name="android:statusBarColor">#0D0F0C</item><item name="android:navigationBarColor">#0D0F0C</item></style></resources>
